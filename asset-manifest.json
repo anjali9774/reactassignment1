@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactassignment1/static/css/main.b809ccb5.css",
+    "main.js": "/reactassignment1/static/js/main.94dcb379.js",
+    "static/media/Picture.svg": "/reactassignment1/static/media/Picture.e4254d945f7f28a4a6889b8fe41b54c9.svg",
+    "static/media/LinkedinLogo.svg": "/reactassignment1/static/media/LinkedinLogo.f4466724897a183e3fb08c10ea588640.svg",
+    "static/media/InstagramLogo.svg": "/reactassignment1/static/media/InstagramLogo.266cf007a759696816dcabb491c74025.svg",
+    "index.html": "/reactassignment1/index.html",
+    "main.b809ccb5.css.map": "/reactassignment1/static/css/main.b809ccb5.css.map",
+    "main.94dcb379.js.map": "/reactassignment1/static/js/main.94dcb379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b809ccb5.css",
+    "static/js/main.94dcb379.js"
+  ]
+}
